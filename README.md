@@ -1,6 +1,8 @@
 # todo_app
 
-A new Flutter project.
+<img src="todo.gif" width="270" />
+
+About Flutter management of various trees to update the UI efficiently, about setting up keys for StateFullWidget's state management, etc
 
 ## Getting Started
 
